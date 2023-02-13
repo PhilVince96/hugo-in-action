@@ -1,39 +1,39 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: Acme Corporation
+baseURL: https://lichtcheck24.de/
+languageCode: de-de
+title: LichtCheck24
 theme: Eclectic
 author:
   facebook: " https://facebook.com/example"
   twitter: " https://twitter.com/example"
-  email: "contact@example.org"
-  name: "Acme Corporation"
-  locatione: New York
-  phone: (999) 999-9999
+  email: "philipp@ebertonline.eu"
+  name: "Philipp Vincent Ebert"
+  location: Niedernhausen
+  phone: +49 151 59168616
   hours: "Mon-Fri: 9:00AM - 6:00PM, ET"
 
 menu:
   main:
     - identifier: about
-      name: About
-      url: /about
+      name: Über uns
+      url: /ueber-uns
       weight: 100
     - identifier: contact
-      name: Contact
-      url: /contact
+      name: Kontakt
+      url: /kontakt
       weight: 200
 params:
   color: "#4f46e5"
-  copyright: "Copyright &copy: 2023 Acme Corporation. All Rights Reserved."
+  copyright: "Copyright &copy: 2023 LichtCheck24. All Rights Reserved."
   footer:
-    - title: About
+    - title: Über uns
       content: >
         Acme corporation is the world's leading manufacturer of digital shapes.
         From squares and circles to triangles and hexagons, we have it all.
         Browse through our collection of various forms with different thickness and
         line styles. We shape the world. You live in it.
 
-    - title: Recent Blog Posts
+    - title: Kürzliche Blog Posts
       recents: blog
       recentCount: 7
-    - title: Contact us
+    - title: Kontaktiere uns
       contact: true
