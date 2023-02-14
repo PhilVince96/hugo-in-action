@@ -37,3 +37,14 @@ params:
       recentCount: 7
     - title: Kontaktiere uns
       contact: true
+  style: blue
+  logo: /image/logo.png
+  logo_small: /image/logo.png
+  about_us: >
+    Acme corporation is the world's leading manufacturer of digital shapes.
+    From squares and circles to triangles and hexagons, we have it all.
+    Browse through our collection of various forms with different thickness and
+    line styles. We shape the world. You live in it.
+
+  recent_posts:
+    enable: true
