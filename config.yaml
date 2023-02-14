@@ -23,7 +23,7 @@ menu:
       weight: 200
 params:
   color: "#4f46e5"
-  copyright: "Copyright &copy: 2023 LichtCheck24. All Rights Reserved."
+  copyright: "Copyright &copy; : 2023 LichtCheck24. All Rights Reserved."
   footer:
     - title: Über uns
       content: >
