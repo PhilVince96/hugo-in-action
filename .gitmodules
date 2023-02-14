@@ -1,0 +1,3 @@
+[submodule "hugoinaction"]
+	path = hugoinaction
+	url = https://github.com/hugoinaction/hugoinaction
