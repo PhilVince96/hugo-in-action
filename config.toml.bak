@@ -1,4 +1,4 @@
-baseURL = "http://philvince96.github.io/hugo-in-action/"
+baseURL = "https://philvince96.github.io/hugo-in-action/"
 languageCode = "en-us"
 title = "Acme Corporation"
 theme = "Eclectic"
