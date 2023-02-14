@@ -1,1 +1,4 @@
+public
+*.lock
+static/.DS_Store
 .DS_Store
